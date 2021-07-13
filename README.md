@@ -29,7 +29,6 @@
 ![CircleCI](https://img.shields.io/badge/CircleCI-black.svg?&style=flat&logo=circleci&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-![SonarQube](https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
@@ -53,6 +52,7 @@
 ![Auth0](https://img.shields.io/badge/Auth0-EB5524.svg?&style=flat&logo=auth0&logoColor=white)&nbsp;
 ![Rancher](https://img.shields.io/badge/Rancher-0675A8.svg?&style=flat&logo=rancher&logoColor=white)&nbsp;
 ![Sentry](https://img.shields.io/badge/Sentry-372C59.svg?&style=flat&logo=sentry&logoColor=white)&nbsp;
+![SonarQube](https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white)&nbsp;
 
 
   <summary><b>:gear: &nbsp;GitHub Statistics and work experience</b></summary>
