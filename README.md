@@ -34,7 +34,7 @@
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
 ![GraphQl](https://img.shields.io/badge/GraphQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 ![SCRUM](https://img.shields.io/badge/Agile-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 
 
