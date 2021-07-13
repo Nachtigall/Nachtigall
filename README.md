@@ -1,12 +1,17 @@
 ### Hi there!
 
-#### Some fun facts:
+#### A bit about me:
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Python Engineer. \
-&nbsp;&nbsp;&nbsp;🇺🇦 &nbsp; I'm located in Lviv, Ukraine.\
+&nbsp;&nbsp;&nbsp;🇺🇦 &nbsp;I'm located in Lviv, Ukraine.\
 &nbsp;&nbsp;&nbsp;✨ &nbsp;Passionate about unit tests, clean code, teamwork and Zen of Python.\
-&nbsp;&nbsp;&nbsp;🔨 &nbsp;Started as Automation QA Engineer in 2011. Later switched to <strike>dark</strike> 🐍 development side\
+&nbsp;&nbsp;&nbsp;🔨 &nbsp;Started as Automation QA Engineer in 2011. Later switched to the <strike>dark</strike> 🐍 development side\
 &nbsp;&nbsp;&nbsp;🌍 &nbsp;I'm open for full-time remote work.
+
+#### Some fun facts:
+&nbsp;&nbsp;&nbsp;🏘️ &nbsp; I have lived in Hamburg, Germany 🥨 and Vienna, Austria 🎡 for ~3 years.\
+&nbsp;&nbsp;&nbsp;🗣️ &nbsp; I can speak 🇺🇦 and 🇬🇧. Also, i can understand (and say someting) in 🇩🇪 and 🇵🇱.\
+&nbsp;&nbsp;&nbsp;🗺️ &nbsp; Traveling is my passion. Waiting when 🦠 will be over. 
 
 <p align="center">
   <a href="mailto:torba.o@gmail.com?subject=Hey,%20Oles%20Mikula"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
