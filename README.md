@@ -61,5 +61,5 @@
 
   <summary><b>:gear: &nbsp;GitHub Statistics and work experience</b></summary>
   <br/>
-  <a href="https://profile.codersrank.io/user/olesmrbond/"><img src="https://img.shields.io/badge/codersrank-%230077B5.svg?&style=for-the-badge&logo=codersrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://profile.codersrank.io/user/olesmrbond/"><img src="https://img.shields.io/badge/codersrank-68A3AC.svg?&style=for-the-badge&logo=codersrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
