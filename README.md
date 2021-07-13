@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Python Engineer. \
 &nbsp;&nbsp;&nbsp;🇺🇦 &nbsp; I'm located in Lviv, Ukraine.\
 &nbsp;&nbsp;&nbsp;✨ &nbsp;Passionate about unit tests, clean code, teamwork and Zen of Python.\
-&nbsp;&nbsp;&nbsp;🔨 &nbsp;Started as Automation QA Enineer in 2011. Later switched to <strike>dark</strike> 🐍 development side\
+&nbsp;&nbsp;&nbsp;🔨 &nbsp;Started as Automation QA Engineer in 2011. Later switched to <strike>dark</strike> 🐍 development side\
 &nbsp;&nbsp;&nbsp;🌍 &nbsp;I'm open for full-time remote work.
 
 <p align="center">
