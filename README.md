@@ -4,14 +4,9 @@ A little about me:
 
 🇺🇦 I'm located in Lviv, Ukraine. 
 
-🔭 I’m currently working with AWS and Kubernetes.
-
-🌱 I’m currently learning everything related to DevOps and automation.
-
-📚 Self-taught
 
 🌍 I'm open for full-time remote work.
-⚡ Fun fact: Home automation is one of my hobbies.
+
 
 What technologies i'm using currently:
 
