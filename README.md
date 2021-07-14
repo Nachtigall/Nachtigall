@@ -45,7 +45,7 @@
   <summary><b>:brain: &nbsp;Always learning</b></summary>
   <br/>
  
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![BDD](https://img.shields.io/badge/BDD-4479A1.svg?&style=flat&logo=bdd&logoColor=white)&nbsp;
 ![TDD](https://img.shields.io/badge/TDD-4479A1.svg?&style=flat&logo=bdd&logoColor=white)&nbsp;
@@ -56,7 +56,7 @@
 ![Auth0](https://img.shields.io/badge/Auth0-EB5524.svg?&style=flat&logo=auth0&logoColor=white)&nbsp;
 ![Rancher](https://img.shields.io/badge/Rancher-0675A8.svg?&style=flat&logo=rancher&logoColor=white)&nbsp;
 ![Sentry](https://img.shields.io/badge/Sentry-372C59.svg?&style=flat&logo=sentry&logoColor=white)&nbsp;
-![SonarQube](https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white)&nbsp;
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white)&nbsp;
 
 
   <summary><b>:gear: &nbsp;GitHub Statistics and work experience</b></summary>
