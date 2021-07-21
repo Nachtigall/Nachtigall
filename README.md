@@ -59,7 +59,7 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white)&nbsp;
 
 
-  <summary><b>:gear: &nbsp;GitHub Statistics and work experience</b></summary>
+  <summary><b>:gear: &nbsp;GitHub Statistics and work experience (click! ⬇️)</b></summary>
   <br/>
   <a href="https://profile.codersrank.io/user/nachtigall/"><img src="https://img.shields.io/badge/codersrank-68A3AC.svg?&style=for-the-badge&logo=codersrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
