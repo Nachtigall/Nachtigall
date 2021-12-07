@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;🌍 &nbsp;I'm open for full-time remote work.
 
 #### Some fun facts:
-&nbsp;&nbsp;&nbsp;🏘️ &nbsp; I have lived in Hamburg, Germany 🥨 and Vienna, Austria 🎡 for ~3 years.\
+&nbsp;&nbsp;&nbsp;🏘️ &nbsp; I have lived in Hamburg, Germany 🥨  and Vienna, Austria 🎡  for ~3 years.\
 &nbsp;&nbsp;&nbsp;🗣️ &nbsp; I can speak 🇺🇦 and 🇬🇧. Also, i can understand (and say someting) in 🇩🇪 and 🇵🇱.\
 &nbsp;&nbsp;&nbsp;🗺️ &nbsp; Traveling is my passion. Waiting when 🦠 will be over. 
 
