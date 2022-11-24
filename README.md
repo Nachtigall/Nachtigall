@@ -2,7 +2,7 @@
 
 #### A bit about me:
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Python Engineer. \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Python Engineer at Raft.ai. \
 &nbsp;&nbsp;&nbsp;🇺🇦 &nbsp;I'm located in Lviv, Ukraine.\
 &nbsp;&nbsp;&nbsp;✨ &nbsp;Passionate about unit tests, clean code, teamwork and Zen of Python.\
 &nbsp;&nbsp;&nbsp;🔨 &nbsp;Started as Automation QA Engineer in 2011. Later switched to the <strike>dark</strike> 🐍 development side.\
