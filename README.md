@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;🗺️ &nbsp; Traveling is my passion. Waiting when 🦠 will be over. 
 
 <p align="center">
-  <a href="mailto:torba.o@gmail.com?subject=Hey,%20Oles%20Mikula"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:oles@mikula.tech?subject=Hey,%20Oles%20Mikula"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/nachtigall_0"><img src="https://img.shields.io/badge/telegram-%233B5998.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://join.skype.com/invite/aCFBB5H5updn"><img src="https://img.shields.io/badge/skype-blue.svg?&style=for-the-badge&logo=skype&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/olesmikula/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
